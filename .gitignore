@@ -1,0 +1,15 @@
+/data/TorchGeo/PemsBay/Static_edge_weight.pt
+/data/TorchGeo/PemsBay/Static_edge_index.pt
+/data/TorchGeo/PemsBay/Dynamic_node_Features_Train.pt
+/data/TorchGeo/PemsBay/Dynamic_node_Features_Test.pt
+/data/PeMS-M/
+/data/adj_mat.npy
+/data/METR-LA.zip
+/data/node_values.npy
+/data/PEMS-BAY.zip
+/data/pems_adj_mat.npy
+/data/pems_node_values.npy
+/data/LuST.zip
+/data/lust_adj_mat.npy
+/data/lust_node_values.npy
+/ray_results/
